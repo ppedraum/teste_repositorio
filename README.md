@@ -1,2 +1,1 @@
-# teste_repositorio
- 
+Repositório criado para o curso 
